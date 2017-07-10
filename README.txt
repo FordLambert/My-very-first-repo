@@ -1,7 +1,5 @@
+What can I say ? This will be the most simple repo on this page, just an exercice to learn "how to".
 
-Voici mon super readme, j'ai choisi de simuler un début de projet de site web.
+It's not useful at all but I keep it because I like to.
 
-On a donc la page html et une feuille de style (bien vides hein c'est juste pour l'exercice).
-
-Les commits vont être des ajouts de texte et des modifications de style.
-
+You know what ? leave a message if you want !
